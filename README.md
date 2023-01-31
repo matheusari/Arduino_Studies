@@ -6,8 +6,10 @@
 
 <h3 align="center"> 🇧🇷 </h3>
 
-O repositório "First Step" foi criado para mostrar meu primeiro contato com códigos. Aqui eu usei como base a IDE do Portugol, uma representação que se assemelha bastante com a linguagem C, porém escrito em português. O software é muito utilizado por iniciantes para facilitar a construção e a leitura dos algoritmos usando uma linguagem mais fácil aos alunos.
+O repositório "Arduino Studies" foi criado para mostrar meu primeiro contato com a plataforma de prototipagem eletrônica de hardware livre e de placa única Arduino. Tais projetos foram desenvolvidos como complemento da nota do curso de "Sistemas Embarcados" da instuição pública de ensino FATEC.
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <h3 align="center"> 🇺🇸 </h3>
+
+The "Arduino Studies" repository was created to showcase my first contact with the Arduino single-board, open-source electronics prototyping platform. Such projects were developed as a complement to the grade of the "Embedded Systems" course at the public teaching institution FATEC.
